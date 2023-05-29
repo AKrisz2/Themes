@@ -26,6 +26,6 @@
     --dark-green: 56, 171, 111; /* Use RGB values */
 
     --avatar-circle: 1; /* Square avatar */
-    --avatar-rounded: 15px; /* Square avatars */
+    --avatar-rounded: 30px; /* Square avatars */
     --avatar-border: 1px solid var(--neon-red-color); /* Border of avatar */
 }
