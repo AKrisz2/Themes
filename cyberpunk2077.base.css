@@ -560,7 +560,7 @@
  /* Avatars in message section */
  .avatar-2e8lTP {
      border-radius: var(--avatar-circle);
-     border-bottom-right-radius: var(--avatar-rounded);
+     border-radius: 20px;
      border: var(--avatar-border);
  }
 
